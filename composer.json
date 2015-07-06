@@ -1,0 +1,10 @@
+{
+    "name": "myrostadler/php_codesniffer",
+    "authors": [
+        {
+            "name": "Myro Stadler",
+            "email": "myro.stadler@gmail.com"
+        }
+    ],
+    "require": {}
+}
